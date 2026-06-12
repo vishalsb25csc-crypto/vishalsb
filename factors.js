@@ -1,0 +1,14 @@
+// Variables
+let factor = "Hard Work";
+let fplayer = "Virat Kohli";
+let fmovie = "Interstellar";
+
+// Function
+function favourite() {
+    console.log("Favourite Factor: " + factor);
+    console.log("Favourite Player: " + fplayer);
+    console.log("Favourite Movie: " + fmovie);
+}
+
+// Function call
+favourite();
