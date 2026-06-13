@@ -1,0 +1,2 @@
+var light = 
+if(light==)
