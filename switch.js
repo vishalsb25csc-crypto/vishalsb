@@ -12,4 +12,3 @@ switch(signal){
         break;
     default:
         console.log("Invalid signal");
-}
